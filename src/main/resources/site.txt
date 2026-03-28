@@ -1,0 +1,3 @@
+# Site que para aprender sobre design patterns.
+
+--> https://refactoring.guru/design-patterns/catalog
