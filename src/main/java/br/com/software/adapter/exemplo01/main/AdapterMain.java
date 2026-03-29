@@ -1,7 +1,10 @@
-package br.com.software.adapter.main;
+package br.com.software.adapter.exemplo01.main;
 
-import br.com.software.adapter.*;
-
+import br.com.software.adapter.exemplo01.*;
+import br.com.software.adapter.exemplo01.adapters.NotaGraduacaoAdapter;
+import br.com.software.adapter.exemplo01.adapters.NotaPosGraduacaoAdapter;
+import br.com.software.adapter.exemplo01.externo.EmissorNotasGraduacaoExterna;
+import br.com.software.adapter.exemplo01.externo.EmissorNotasPosGraduacaoExterna;
 import java.util.List;
 
 public class AdapterMain {

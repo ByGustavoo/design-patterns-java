@@ -1,4 +1,4 @@
-package br.com.software.adapter;
+package br.com.software.adapter.exemplo01.externo;
 
 public class EmissorNotasGraduacaoExterna {
 

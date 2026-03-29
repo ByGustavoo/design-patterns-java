@@ -1,4 +1,7 @@
-package br.com.software.adapter;
+package br.com.software.adapter.exemplo01.adapters;
+
+import br.com.software.adapter.exemplo01.externo.EmissorNotasPosGraduacaoExterna;
+import br.com.software.adapter.exemplo01.Nota;
 
 public class NotaPosGraduacaoAdapter implements Nota {
 
