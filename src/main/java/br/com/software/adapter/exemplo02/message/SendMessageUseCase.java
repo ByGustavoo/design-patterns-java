@@ -1,4 +1,6 @@
-package br.com.software.adapter.exemplo02;
+package br.com.software.adapter.exemplo02.message;
+
+import br.com.software.adapter.exemplo02.Sender;
 
 public class SendMessageUseCase {
 

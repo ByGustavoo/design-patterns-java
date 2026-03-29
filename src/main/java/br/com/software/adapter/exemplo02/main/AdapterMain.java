@@ -1,7 +1,7 @@
 package br.com.software.adapter.exemplo02.main;
 
-import br.com.software.adapter.exemplo02.Message;
-import br.com.software.adapter.exemplo02.SendMessageUseCase;
+import br.com.software.adapter.exemplo02.message.Message;
+import br.com.software.adapter.exemplo02.message.SendMessageUseCase;
 import br.com.software.adapter.exemplo02.Sender;
 import br.com.software.adapter.exemplo02.adapters.EmailSenderAdapter;
 import br.com.software.adapter.exemplo02.adapters.WhatsAppSenderAdapter;

@@ -1,4 +1,4 @@
-package br.com.software.adapter.exemplo02;
+package br.com.software.adapter.exemplo02.message;
 
 public class Message {
 
