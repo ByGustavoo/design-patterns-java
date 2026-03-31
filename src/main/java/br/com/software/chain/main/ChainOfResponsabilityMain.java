@@ -5,7 +5,7 @@ import br.com.software.chain.rules.AprovadorAutomaticoRule;
 import br.com.software.chain.rules.RejeicaoRule;
 import br.com.software.chain.rules.RevisorRule;
 
-public class ChainOfResposabilityMain {
+public class ChainOfResponsabilityMain {
     static void main() {
 
         BaseRule aprovadorAutomaticoRule = new AprovadorAutomaticoRule();
